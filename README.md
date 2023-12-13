@@ -12,4 +12,4 @@
 
 <h3 align="center"> Versão Desktop</h3>
 
-<img src="">
+<img src="https://github.com/EvertonDepla/Wide-Coverage/blob/master/assets/wide%20%20recor%20print.PNG?raw=true" alt="imagem-site">
