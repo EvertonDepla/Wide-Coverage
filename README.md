@@ -13,3 +13,6 @@
 <h3 align="center"> Versão Desktop</h3>
 
 <img src="https://github.com/EvertonDepla/Wide-Coverage/blob/master/assets/wide%20%20recor%20print.PNG?raw=true" alt="imagem-site">
+<p>
+Para abrir o projeto <a href="https://evertondepla.github.io/Wide-Coverage"/>Cliqui Aqui</a>
+<p>
